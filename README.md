@@ -1,5 +1,4 @@
 The Loan Prediction App takes the following field's as user input:
-loan_id	no_of_dependents	education	self_employed	income_annum	loan_amount	loan_term	cibil_score	residential_assets_value	commercial_assets_value	luxury_assets_value	bank_asset_value	loan_status
 ![image](https://github.com/user-attachments/assets/d17c7b17-798f-4b24-a5c9-e083f2679557)
 
 
