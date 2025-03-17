@@ -69,7 +69,7 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 5.  **Open your browser and navigate to `http://127.0.0.1:5000/`**
 
 
-The Loan Prediction App takes the following field's as user input:
+## About the Dataset
 ![image](https://github.com/user-attachments/assets/d17c7b17-798f-4b24-a5c9-e083f2679557)
 
 
