@@ -20,6 +20,54 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 * **Pandas:** For data manipulation and analysis.
 * **Pickle:** For serializing and deserializing the trained model.
 
+## Getting Started
+
+### Prerequisites
+
+* Python 3.x
+* pip (Python package installer)
+
+### Installation
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone [https://github.com/your-username/loan-prediction-app.git](https://www.google.com/search?q=https://github.com/your-username/loan-prediction-app.git)
+    cd loan-prediction-app
+    ```
+
+2.  **Create a virtual environment (recommended):**
+
+    ```bash
+    python -m venv venv
+    ```
+
+    * On Windows:
+
+        ```bash
+        venv\Scripts\activate
+        ```
+
+    * On macOS and Linux:
+
+        ```bash
+        source venv/bin/activate
+        ```
+
+3.  **Install the required packages:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Run the application:**
+
+    ```bash
+    python app.py
+    ```
+
+5.  **Open your browser and navigate to `http://127.0.0.1:5000/`**
+
 
 The Loan Prediction App takes the following field's as user input:
 ![image](https://github.com/user-attachments/assets/d17c7b17-798f-4b24-a5c9-e083f2679557)
