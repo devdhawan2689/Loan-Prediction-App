@@ -1,8 +1,7 @@
-![Approved and Rejected Screen](https://github.com/user-attachments/assets/f927ac9d-1abb-490e-bb1f-14e1f8677625)# Loan-Prediction-App
-
 The Loan Prediction App takes the following field's as user input:
 loan_id	no_of_dependents	education	self_employed	income_annum	loan_amount	loan_term	cibil_score	residential_assets_value	commercial_assets_value	luxury_assets_value	bank_asset_value	loan_status
-![image](https://github.com/user-attachments/assets/a10317d2-8d60-4f59-bc7b-26c9a0eff532)
+![image](https://github.com/user-attachments/assets/d17c7b17-798f-4b24-a5c9-e083f2679557)
+
 
 Then Predicts wheter the person should be given a loan or not. 
 
