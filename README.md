@@ -32,7 +32,7 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 1.  **Clone the repository:**
 
     ```bash
-    git clone [[https://github.com/your-username/loan-prediction-app.git](https://www.google.com/search?q=https://github.com/your-username/loan-prediction-app.git](https://github.com/devdhawan2689/Loan-Prediction-App.git))
+    git clone [https://github.com/devdhawan2689/Loan-Prediction-App.git]
     cd loan-prediction-app
     ```
 
