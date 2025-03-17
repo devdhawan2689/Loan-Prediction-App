@@ -32,7 +32,7 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/loan-prediction-app.git](https://www.google.com/search?q=https://github.com/your-username/loan-prediction-app.git)
+    git clone [[https://github.com/your-username/loan-prediction-app.git](https://www.google.com/search?q=https://github.com/your-username/loan-prediction-app.git](https://github.com/devdhawan2689/Loan-Prediction-App.git))
     cd loan-prediction-app
     ```
 
@@ -74,9 +74,11 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 
 **`loan_id`	`no_of_dependents`	`education`	`self_employed`	`income_annum`	`loan_amount`	`loan_term`	`cibil_score`	`residential_assets_value`	`commercial_assets_value`	`luxury_assets_value`	`bank_asset_value`	`loan_status`**
 
-**Project Demo**
+## Project Demo
+
+**User Input Form**
 
 ![Home Page](https://github.com/user-attachments/assets/8d4a7028-12b1-4163-8d3e-fc6a36f7fe11)
 
-Approval/ Rejection Message:
+**Approval/ Rejection Message**
 ![Approved and Rejected Screen](https://github.com/user-attachments/assets/c16fdf10-04b4-46d7-b90d-3a295761bd90)
