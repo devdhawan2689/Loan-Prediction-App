@@ -70,7 +70,8 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 
 
 ## About the Dataset
-![image](https://github.com/user-attachments/assets/d17c7b17-798f-4b24-a5c9-e083f2679557)
+**Fields in the Dataset**
+**`loan_id`	`no_of_dependents`	`education`	`self_employed`	`income_annum`	`loan_amount`	`loan_term`	`cibil_score`	`residential_assets_value`	`commercial_assets_value`	`luxury_assets_value`	`bank_asset_value`	`loan_status`**
 
 
 Then Predicts wheter the person should be given a loan or not. 
