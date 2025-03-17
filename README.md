@@ -74,7 +74,7 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 
 **`loan_id`	`no_of_dependents`	`education`	`self_employed`	`income_annum`	`loan_amount`	`loan_term`	`cibil_score`	`residential_assets_value`	`commercial_assets_value`	`luxury_assets_value`	`bank_asset_value`	`loan_status`**
 
-Then Predicts wheter the person should be given a loan or not. 
+**Live Demo**
 
 Here is a Sample Demo of the User Form:
 ![Home Page](https://github.com/user-attachments/assets/8d4a7028-12b1-4163-8d3e-fc6a36f7fe11)
