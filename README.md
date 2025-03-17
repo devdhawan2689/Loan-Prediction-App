@@ -33,7 +33,7 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 
     ```bash
     git clone [https://github.com/devdhawan2689/Loan-Prediction-App.git]
-    cd loan-prediction-app
+    cd Loan-Prediction-App
     ```
 
 2.  **Create a virtual environment (recommended):**
