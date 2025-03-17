@@ -7,7 +7,8 @@ loan_id	no_of_dependents	education	self_employed	income_annum	loan_amount	loan_t
 Then Predicts wheter the person should be given a loan or not. 
 
 Here is a Sample Demo of the User Form:
-![image](https://github.com/user-attachments/assets/72c57471-0f5e-4aca-9e00-c02a365beafa)
+![Home Page](https://github.com/user-attachments/assets/8d4a7028-12b1-4163-8d3e-fc6a36f7fe11)
+
 
 Filling Sample User Data into the form:
 ![image](https://github.com/user-attachments/assets/e12a96ec-2709-4f1e-ad60-3ed2fb1a8ea9)
