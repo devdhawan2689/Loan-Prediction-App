@@ -85,4 +85,4 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 
 
 ## Live Demo of the Project Hosted on AWS can also be seen at 
-`http://127.0.0.1:5000/` 
+`http://3.84.115.90:5000/` 
