@@ -84,4 +84,4 @@ This project aims to provide a simple and accessible tool for loan prediction. I
 ![Approved and Rejected Screen](https://github.com/user-attachments/assets/c16fdf10-04b4-46d7-b90d-3a295761bd90)
 
 
-**Live Demo of the Project Hosted on AWS can also be seen at `http://127.0.0.1:5000/`**
+## Live Demo of the Project Hosted on AWS can also be seen at `http://127.0.0.1:5000/` 
